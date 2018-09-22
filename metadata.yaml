@@ -1,5 +1,5 @@
 _repo: The-Marvellous-Adventures-and-Rare-Conceits-of-Master-Tyll-Owlglass-Newly-collected-chronicle__55035
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Crowquill, Alfred
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1872
     gutenberg_agent_id: '3698'
     url: http://www.gutenberg.org/2009/agents/3698
+covers:
+- cover_type: archival
+  image_path: 55035-h/images/cover.jpg
 creator:
   author:
     agent_name: Mackenzie, Kenneth R. H.
     gutenberg_agent_id: '48161'
     url: http://www.gutenberg.org/2009/agents/48161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55035#The-Marvellous-Adventures-and-Rare-Conceits-of-Master-Tyll-Owlglass-Newly-collected-chronicle_
 gutenberg_issued: '2017-07-03'
 gutenberg_type: Text
 identifiers:
